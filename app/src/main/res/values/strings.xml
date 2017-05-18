@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">estTaxi</string>
+    <string name="btn_Download">Show way</string>
+    <string name="google_maps_key">AIzaSyD1zXbd_UE-HN4WHxaVLhd99hjf3ch_ERM</string>
+</resources>
