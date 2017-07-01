@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">estTaxi</string>
+<string name="start_loading">Загрузка данных...</string>
+<string name="btn_Download">Загрузить путь</string>
+<string name="gettings_ways">Получение пути, пожалуйста подождите...</string>
+<string name="title_activity_maps">Карта</string>
+</resources>
